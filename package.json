@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-app",
+  "version": "1.0.0",
+  "description": "express js apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonikomp/expressjs-app.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "admin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonikomp/expressjs-app/issues"
+  },
+  "homepage": "https://github.com/yonikomp/expressjs-app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
